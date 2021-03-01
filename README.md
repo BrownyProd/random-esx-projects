@@ -1,8 +1,8 @@
 # Description
 
-I'll post some shit ESX I made but never used, some could use it to learn others just to use it.
+I'll post some shit using ESX I made in the past but never used, some could use it to learn others just to use it.
 
-Most of the shit I'll post aren't finished, if you want to create pull requests I'll accept them (as long as it doesn't look like doodoo).
+Most of the shit I'll post aren't finished, if you want to create a pull requests I'll accept them (as long as it doesn't look like doodoo).
 
 
 ## FYI
